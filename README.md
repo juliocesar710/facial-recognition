@@ -75,7 +75,7 @@ Permite o upload de uma imagem para classificação. Após detectar e processar 
 ### 2. Contagem de Classes
 Percorre o CSV e conta quantas imagens possuem o atributo "Male" ou "Female".
 
-## 🔍 Instruções de Uso [Aqui](./notebooks/reconhecimento_facial_view)
+## 🔍 Instruções de Uso [Aqui](./notebooks/reconhecimento_facial_view.ipynb)
 
 ### 1. Carregar Arquivos:
 
