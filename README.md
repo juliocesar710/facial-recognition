@@ -4,7 +4,7 @@
 
 ## Visão Geral
 
-Este projeto utiliza um modelo de aprendizado profundo para classificação de imagens faciais em gêneros "Male" ou "Female". Ele combina um classificador de faces (Haar Cascade), um modelo treinado e um pipeline de pré-processamento para identificar e rotular faces em imagens carregadas pelo usuário.
+Este projeto utiliza um modelo de aprendizado profundo para classificação de imagens faciais em gêneros "Male" ou "Female". Ele combina um classificador de faces (Haar Cascade), um modelo treinado e um pipeline de pré-processamento para identificar e rotular faces em imagens carregadas pelo usuário. Embora funcional, o projeto ainda enfrenta dificuldades em reconhecer ambos os gêneros com alta precisão, indicando que melhorias nos dados e no treinamento seriam necessárias para resultados mais consistentes e robustos.
 
 
 ## 🗂️ Estrutura do Projeto
